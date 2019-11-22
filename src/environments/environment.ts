@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  api_url: 'http://realworldbe.azurewebsites.net/api'
+  api_url: 'https://realworldbecore.azurewebsites.net/api'
 };
